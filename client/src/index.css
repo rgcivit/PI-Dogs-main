@@ -1,0 +1,14 @@
+body {
+  background:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOdkcUtDlUIP--MZ60TTJKnULcE2lNomunQ&usqp=CAU') ;
+  margin:5;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
